@@ -1,7 +1,9 @@
 import axios from "axios"
 
-const authToken = import.meta.env.VITE_HUGGING_TOKEN || process.env.VITE_HUGGING_TOKEN
+//insert auth token from huggingface.co
+const authToken = "HUGGINGFACE_AUTH_TOKEN"
 
+//description to send the model on which to infer
 const description = "My name is Andres. I grew up in Costa Rica. I was born in 2002. I'm 19 years old. I'm passionate about AI, Blockchain & Web3. I graduated high school from The British School of Costa Rica in 2020."
 
 export async function getAnswer(question) {
