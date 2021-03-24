@@ -1,3 +1,3 @@
 # The Answering Machine
 
-![alt text](https://drive.google.com/file/d/1SQbgsBtM-dA5NzEBRdgqpcaHmnJ4v_JV/view)
+![alt text](assets\Screenshot 2021-03-24 132432.png)

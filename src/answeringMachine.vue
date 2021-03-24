@@ -62,7 +62,7 @@
 </template>
 
 <script>
-import { getAnswer } from "../utils/bertAPI"
+import { getAnswer } from "./bertAPI"
 
 export default {
     data: () => ({  
